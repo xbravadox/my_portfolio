@@ -3,6 +3,9 @@ site_author: Grzegorz Szymczyk
 site_description: >-
     Portfolio projektów
 
+repo_name: xbravadox/my_portfolio
+repo_url: https://github.com/xbravadox/my_portfolio
+
 theme:
   name: material
   palette:
