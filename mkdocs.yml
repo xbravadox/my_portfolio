@@ -8,6 +8,7 @@ repo_url: https://github.com/xbravadox/my_portfolio
 
 theme:
   name: material
+  language: pl
   palette:
     primary: teal
 
