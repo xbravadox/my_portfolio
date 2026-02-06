@@ -1,0 +1,18 @@
+site_name: Moje projekty
+site_author: Grzegorz Szymczyk
+site_description: >-
+    Portfolio projektów
+
+theme:
+  name: material
+  palette:
+    primary: teal
+
+nav:
+- Strona Domowa: index.md
+- Obecne projekty:
+  - "FiboLevels_ML-AI": fibolevels/index.md
+  - "AlgoFinAI": algofin/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+  - "Titanic": titanic/index.md
